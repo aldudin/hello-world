@@ -7,3 +7,4 @@ as well
 
 BIG DEAL
 gold
+gold gold
